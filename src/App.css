@@ -1,0 +1,38 @@
+.app {
+  padding: 20px;
+  background-color: floralwhite;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 355px;
+}
+
+.card {
+  margin: 10px 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.style {
+  margin: 50px 200px 50px;
+}
+
+
+.style2 {
+  margin: 20px 490px 50px;
+}
